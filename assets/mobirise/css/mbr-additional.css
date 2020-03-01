@@ -2,6 +2,10 @@
 @import url(https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -80,7 +84,7 @@ textarea,
   background-color: #3498db !important;
 }
 .bg-warning {
-  background-color: #f1c40f !important;
+  background-color: #ff3636 !important;
 }
 .bg-danger {
   background-color: #e74c3c !important;
@@ -166,8 +170,8 @@ textarea,
   border-color: #54d98c !important;
 }
 .btn-warning {
-  background-color: #f1c40f;
-  border-color: #f1c40f;
+  background-color: #ff3636;
+  border-color: #ff3636;
   color: #000000;
 }
 .btn-warning:hover,
@@ -176,14 +180,14 @@ textarea,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #f4d03f;
-  border-color: #f4d03f;
+  background-color: #ff6969;
+  border-color: #ff6969;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #f4d03f !important;
-  border-color: #f4d03f !important;
+  background-color: #ff6969 !important;
+  border-color: #ff6969 !important;
 }
 .btn-danger {
   background-color: #e74c3c;
@@ -287,8 +291,8 @@ textarea,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #e8bd0e;
-  color: #e8bd0e;
+  border-color: #ff2c2c;
+  color: #ff2c2c;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -296,14 +300,14 @@ textarea,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #fff;
-  background-color: #f1c40f;
-  border-color: #f1c40f;
+  background-color: #ff3636;
+  border-color: #ff3636;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #000000 !important;
-  background-color: #f1c40f !important;
-  border-color: #f1c40f !important;
+  background-color: #ff3636 !important;
+  border-color: #ff3636 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -382,7 +386,7 @@ textarea,
   border: none !important;
 }
 .btn-warning.btn-text {
-  color: #f1c40f;
+  color: #ff3636;
   background: none;
   border: none;
 }
@@ -391,7 +395,7 @@ textarea,
 .btn-warning.btn-text.focus,
 .btn-warning.btn-text:active,
 .btn-warning.btn-text.active {
-  color: #f4d03f;
+  color: #ff6969;
   background: none !important;
   border: none !important;
 }
@@ -447,7 +451,7 @@ textarea,
   color: #3498db !important;
 }
 .text-warning {
-  color: #f1c40f !important;
+  color: #ff3636 !important;
 }
 .text-danger {
   color: #e74c3c !important;
@@ -459,7 +463,7 @@ textarea,
   background-color: #3498db;
 }
 .alert-warning {
-  background-color: #f1c40f;
+  background-color: #ff3636;
 }
 .alert-danger {
   background-color: #e74c3c;
@@ -505,7 +509,7 @@ textarea,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #fcf3d0;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -848,12 +852,18 @@ section.form .container {
   text-align: left;
   font-size: 16px;
 }
+#header4-3 {
+  
+  
+  
+  
+}
 #header4-3 .display-1 {
   font-weight: 700;
 }
 #header4-3 .lead {
   color: #fff;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   margin-bottom: 0;
 }
 #header4-3 .mbr-section-subtitle {
@@ -868,7 +878,7 @@ section.form .container {
 }
 #header4-5 .lead {
   color: #fff;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   margin-bottom: 0;
 }
 #header4-5 .mbr-section-subtitle {
@@ -887,6 +897,9 @@ section.form .container {
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
+}
+#image1-i {
+  background-color: #000;
 }
 .cid-rRWH212GPg {
   padding-top: 60px;
@@ -1653,7 +1666,7 @@ section.form .container {
 }
 #header4-y .lead {
   color: #fff;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   margin-bottom: 0;
 }
 #header4-y .mbr-section-subtitle {
