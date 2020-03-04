@@ -1679,7 +1679,7 @@ section.form .container {
 #features15-17 .mbr-section-title {
   font-weight: 700;
   color: #000000;
-  font-size: 48px;
+  font-size: 30px;
 }
 #features15-17 .display-6 {
   text-transform: none;
@@ -1692,9 +1692,10 @@ section.form .container {
 }
 #features15-17 P {
   color: #000000;
+  font-size: 14px;
 }
 #features15-17 .display-5 {
-  font-size: 48px;
+  font-size: 25px;
 }
 #features1-14 .mbr-section-title {
   font-weight: 700;
