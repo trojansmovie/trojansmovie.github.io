@@ -29,7 +29,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": true,
@@ -125,7 +125,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOGLINE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-3\">SYNOPSIS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\">COMPARABLE PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTeams2-p\">PROJECTED CAST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-y\">INTENDED AUDIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features15-17\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOGLINE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-3\">SYNOPSIS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#video1-18\">COMPARABLE PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTeams2-p\">PROJECTED CAST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-y\">INTENDED AUDIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features15-17\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -495,29 +495,23 @@
           },
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/comparable_projects-874x489.png",
+              "src": "@PROJECT_PATH@/assets/images/comparable-projects-854x472.png",
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "colorm/components",
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image1",
-          "_anchor": "image1-i",
-          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom image1 mbr-after-navbar\" data-rv-view=\"12\">\n    <br><br><div class=\"mbr-figure\">\n        <div><img src=\"assets/images/comparable-projects-874x489.png\">\n        </div>\n    \n    <br><br>\n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "background-color: #000;",
-          "_customTemplate": true
+          "_name": "video1",
+          "_anchor": "video1-18"
         },
         {
           "alias": "mobirise4-blocks/components",
