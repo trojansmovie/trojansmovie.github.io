@@ -29,7 +29,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 41,
+    "uniqCompNum": 44,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": true,
@@ -125,7 +125,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOGLINE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-3\">SYNOPSIS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\">COMPARABLE PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTeams2-p\">PROJECTED CAST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-y\">INTENDED AUDIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#team1-11\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOGLINE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-3\">SYNOPSIS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\">COMPARABLE PROJECTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTeams2-p\">PROJECTED CAST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-y\">INTENDED AUDIENCE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features15-17\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-i\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1529,18 +1529,38 @@
           "_anchor": "header4-y"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "color": "#000000",
+              "font-size": "48px"
+            },
+            ".display-6": {
+              "text-transform": "none",
+              "letter-spacing": "0px",
+              "font-weight": "400",
+              "color": "#fff"
+            },
+            ".mbr-cards-row": {
+              "margin-top": "40px"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            ".display-5": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
-            "rows": "1",
-            "bgItem1": "#f5f5f5",
-            "bgItem2": "#000000",
-            "bgItem3": "#ffffff",
-            "bgItem4": "#000000",
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
             "paddingTop": 2,
-            "paddingBottom": 0,
+            "paddingBottom": 2,
+            "columns": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
@@ -1548,74 +1568,39 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#434350",
+            "overlayOpacity": 0.9
           },
-          "title": "Our Team",
-          "subtitle": "This new-found knowledge may then be used by engineers to create new tools and machines.",
-          "person1": "Tommy Musni",
-          "person2": "Eva Habermann",
-          "person3": "Barry Bostwick",
-          "person4": "Anna Cameron",
-          "subtitle1": "WRITER",
-          "subtitle2": "DESIGNER",
-          "subtitle3": "DESIGNER",
-          "subtitle4": "PHOTOGRAPHER",
-          "caption1": "<p><a href=\"https://californiamovie.github.io/\" target=\"_blank\"></a>SEAL TEAM SIX animated/comedy, in development\n<br><b><i><a href=\"https://sealteamsixmovie.github.io/\" target=\"_blank\">Visit Website</a>\n<br></i></b></p><br><p>CALIFORNIA western/drama, in development\n<br><b><i><a href=\"https://californiamovie.github.io/\" target=\"_blank\">Visit Website</a></i></b></p>CARTEL RUN action, in development \n<br><b><i><a href=\"http://cartelrun.github.io\" target=\"_blank\">Visit Website</a></i></b><br><p><b><i><a href=\"https://californiamovie.github.io/\" target=\"_blank\"><br></a></i></b><span style=\"font-size: 1rem;\"><a href=\"http://tommymusni.com\" target=\"_blank\">tommymusni.com</a></span></p><p><span style=\"font-size: 1rem;\"><a href=\"mailto:tommymusni@gmail.com\">tommymusni@gmail.com&nbsp;</a></span></p><p><a href=\"tel:415-377-5237\">(415) 377-5237</a></p>",
-          "caption2": "When the aim is to develop an entertaining and fun game app, it is essential for .",
-          "caption3": "In daily life, maybe you have so familiar with a number of daily necessities, well, do you .",
-          "caption4": "Every year more than four million traffic lights use an estimated three billion .",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
-          "media1": {
+          "title": "TOMMY MUSNI | WRITER<br><br><br><div>\n</div><div><br></div><div>\n</div><div><br></div><div>\n</div><div><a href=\"http://tommymusni.com\" target=\"_blank\">tommymusni.com</a></div><br><div><a href=\"http://tommymusni.com\" target=\"_blank\">\n</a></div><div><a href=\"mailto:tommymusni@gmail.com\">tommymusni@gmail.com</a></div><br><div><a href=\"mailto:tommymusni@gmail.com\">\n</a></div><div><a href=\"tel:415-377-5237\">(415) 377-5237</a></div>",
+          "media": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/tommy-musni-removebg-957x1280.png",
+              "class": "card-img-top",
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/tommy-musni-2-600x803.jpeg",
-              "class": "features-img",
-              "width": 600,
               "link": "",
               "alt": "",
               "title": ""
             }
           },
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face2.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face3.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/team/face4.png",
-              "class": "features-img",
-              "width": 600
-            }
-          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "SEAL TEAM SIX",
+          "caption1": "Animated/Comedy, in development\n<br><i><a href=\"https://sealteamsixmovie.github.io/\" target=\"_blank\"><b>Visit Website</b></a></i>",
+          "title2": "Responsive",
+          "subtitle2": "CALIFORNIA",
+          "caption2": "Western/Drama, in development\n<br><b><i><a href=\"http://californiamovie.github.io\" target=\"_blank\">Visit Website</a></i></b>",
+          "title3": "Web Fonts",
+          "subtitle3": "CARTEL RUN",
+          "caption3": "Action, in development<br><b><i><a href=\"http://cartelrun.github.io\" target=\"_blank\">Visit Website</a></i></b>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "team1",
-          "_anchor": "team1-11",
-          "_customHTML": "<section class=\"mbr-section mbr-team team1 mbr-after-navbar\" data-rv-view=\"200\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 0px;\">\n\n    \n\n      <div class=\"container-fluid\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h1 class=\"mbr-section-title main-title mbr-editable-content\" code-editable-id=\"57\">CONTACT</h1>\n              </div>\n          </div>\n      </div>\n\n    <div class=\"mbr-section mbr-section-nopadding\">\n      <div class=\"row\">\n        <div class=\"col-md-6 item1\" style=\"background-color: rgb(245, 245, 245);\">\n          <div class=\"col-md-6\">\n            <div class=\"person-photo\"><img src=\"@PROJECT_PATH@/assets/images/tommy-musni-2-600x803.jpeg\" class=\"features-img\"></div>\n          </div>\n          <div class=\"col-md-6 content\">\n            <h5 class=\"title1 mbr-editable-content\" code-editable-id=\"58\">Tommy Musni</h5>\n            <h6 class=\"subtitle1 mbr-editable-content\" code-editable-id=\"59\">WRITER</h6>  \n            <p class=\"mbr-section-text text1 mbr-editable-content\" code-editable-id=\"60\"></p><p><a href=\"https://californiamovie.github.io/\" target=\"_blank\"></a>SEAL TEAM SIX animated/comedy, in development\n<br><strong><em><a href=\"https://sealteamsixmovie.github.io/\" target=\"_blank\">Visit Website</a>\n<br></em></strong></p><br><p>CALIFORNIA western/drama, in development\n<br><strong><em><a href=\"https://californiamovie.github.io/\" target=\"_blank\">Visit Website</a></em></strong></p>CARTEL RUN action, in development \n<br><strong><em><a href=\"http://cartelrun.github.io\" target=\"_blank\">Visit Website</a></em></strong><br><p><strong><em><a href=\"https://californiamovie.github.io/\" target=\"_blank\"><br></a></em></strong><span style=\"font-size: 1rem;\"><a href=\"http://tommymusni.com\" target=\"_blank\">tommymusni.com</a></span></p><p><span style=\"font-size: 1rem;\"><a href=\"mailto:tommymusni@gmail.com\">tommymusni@gmail.com&nbsp;</a></span></p><p><a href=\"tel:415-377-5237\">(415) 377-5237</a></p><p></p>\n          </div>\n    \n\n\n        </div>\n      </div>\n      <div class=\"row\">\n        \n        \n      </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".title4 {\n  color: #000000;\n}\n.title2 {\n  color: #ffffff;\n}\n",
-          "_customTemplate": true
+          "_name": "features15",
+          "_anchor": "features15-17"
         },
         {
           "_params": {
@@ -1779,7 +1764,7 @@
           ],
           "_name": "features1",
           "_anchor": "features1-14",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-after-navbar\" data-rv-view=\"222\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"256\">MOVING ON FILMS</h1>\n                    <p class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"257\">is a film and television production company founded and run by three individuals: producer Samuel Toole, writer/producer Gary Dover, and award-winning producer Colleen Keane.</p>\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/sam-toole-600x450.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"258\">Samuel Toole</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"259\">Samuel uses both his production and his entrepreneurial background to create unique relationships and innovative financing paths.<br><br><em><strong><a href=\"mailto:stoole62@gmail.com\" class=\"text-warning\">stoole62@gmail.com</a></strong></em><br></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/colleen-keane-540x960.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"260\">Colleen Keane</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" style=\"text-align: left; color: rgb(0, 0, 0);\" code-editable-id=\"261\">One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br><strong><em><a href=\"mailto:cfk726@msn.com\" class=\"text-warning\">cfk726@msn.com</a></em></strong><br></p>\n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/gary-dover-360x180.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"262\">Gary Dover</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"263\" style=\"text-align: left;\">Gary multi-tasks as a producer and writer who has scripts that have been optioned, with stories that range from biographical to technology based due to his diverse career background.</p>\n                               <em><a href=\"mailto:cabincontrol@yahoo.com\" class=\"text-warning\">cabincontrol@yahoo.com</a></em>\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero features1 features4 mbr-after-navbar\" data-rv-view=\"222\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-8 col-lg-offset-2 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"51\">MOVING ON FILMS</h1>\n                    <p class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\">is a film and television production company founded and run by three individuals: producer Samuel Toole, writer/producer Gary Dover, and award-winning producer Colleen Keane.</p>\n                </div>\n            </div>\n\n            <div class=\"mbr-cards-row row\">\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/sam-toole-600x450.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"53\">Samuel Toole</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"54\">Samuel uses both his production and his entrepreneurial background to create unique relationships and innovative financing paths.<br><br><em><strong><a href=\"mailto:stoole62@gmail.com\" class=\"text-warning\">stoole62@gmail.com</a></strong></em><br></p>\n\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/colleen-keane-540x960.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"55\">Colleen Keane</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" style=\"text-align: left; color: rgb(0, 0, 0);\" code-editable-id=\"56\">Colleen has more than 25 years of experience in the film business, from small independents to major-minis.<br><br><strong><em><a href=\"mailto:cfk726@msn.com\" class=\"text-warning\">cfk726@msn.com</a></em></strong><br></p>\n\n\n                                \n                            </div>\n                        </div>\n                  </div>\n                </div>\n                <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                    <div class=\"container\">\n                        <div class=\"card cart-block\">\n                            <div class=\"card-img iconbox\"><img src=\"@PROJECT_PATH@/assets/images/gary-dover-360x180.jpeg\" class=\"features-img\"></div>\n                            <div class=\"card-block text-xs-center\">\n                                <h5 class=\"mbr-section-subtitle lead mbr-editable-content\" code-editable-id=\"57\">Gary Dover</h5>\n                                <p class=\"mbr-section-text lead mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"58\">Gary multi-tasks as a producer and writer who has scripts that have been optioned, with stories that range from biographical to technology based due to his diverse career background.</p>\n                               <em><a href=\"mailto:cabincontrol@yahoo.com\" class=\"text-warning\">cabincontrol@yahoo.com</a></em>\n\n                                \n                            </div>\n                        </div>\n                    </div>\n                </div>\n                \n                \n                \n            </div>\n\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-section-title {\n  font-weight: 700;\n  color: #000000;\n  font-size: 60px;\n}\n.mbr-section-subtitle {\n  text-transform: uppercase;\n  letter-spacing: 2px;\n  color: #000000;\n}\n.mbr-section-text {\n  color: #000000;\n}\n",

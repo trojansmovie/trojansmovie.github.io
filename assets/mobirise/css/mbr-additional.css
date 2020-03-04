@@ -1676,11 +1676,25 @@ section.form .container {
 #header4-y .mbr-section-title {
   color: #ff3636;
 }
-#team1-11 .title4 {
+#features15-17 .mbr-section-title {
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+}
+#features15-17 .display-6 {
+  text-transform: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  color: #fff;
+}
+#features15-17 .mbr-cards-row {
+  margin-top: 40px;
+}
+#features15-17 P {
   color: #000000;
 }
-#team1-11 .title2 {
-  color: #ffffff;
+#features15-17 .display-5 {
+  font-size: 48px;
 }
 #features1-14 .mbr-section-title {
   font-weight: 700;
