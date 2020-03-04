@@ -513,7 +513,7 @@
           ],
           "_name": "image1",
           "_anchor": "image1-i",
-          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom image1 mbr-after-navbar\" data-rv-view=\"12\">\n    <br><br><div class=\"mbr-figure\">\n        <div><img src=\"C:\\Users\\dan\\AppData\\Local\\Mobirise.com\\Mobirise\\projects\\project-2020-02-27_204828\\assets\\images\\comparable-projects-874x489.png\">\n        </div>\n    \n    <br><br>\n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-figure--caption-outside-bottom image1 mbr-after-navbar\" data-rv-view=\"12\">\n    <br><br><div class=\"mbr-figure\">\n        <div><img src=\"assets/images/comparable-projects-874x489.png\">\n        </div>\n    \n    <br><br>\n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "background-color: #000;",
